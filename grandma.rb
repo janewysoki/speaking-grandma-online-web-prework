@@ -1,5 +1,5 @@
 # Write a speak_to_grandma method.
-def speak_to_grandma (anything)
+def speak_to_grandma(anything)
   if anything == 
 end
 
