@@ -3,6 +3,9 @@ def speak_to_grandma(anything)
   if anything == "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
   end
+  if anything == anything.upcase
+    return "NO, NOT SINCE 1938!"
+  end
 end
 
 
